@@ -1,5 +1,7 @@
 import Head from 'next/head'
 import { Container , Button , Col , Row , Alert } from 'react-bootstrap' 
+import LazyHero from 'react-lazy-hero'
+// import { IconName } from "react-icons"
 
 export default function Home() {
   let  Meta = () => (
